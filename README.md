@@ -29,5 +29,5 @@ Backend Architecture
 - Docker Compose Deployment
 - JWT Authentication
 
-👉 https://github.com/hwanjung/emotion-diary-api
+👉 https://github.com/hwanjung/emotion-diary
 
