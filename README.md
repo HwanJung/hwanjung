@@ -1,4 +1,4 @@
-Backend Developer Student
+# Backend Developer Student
 
 ## Blog
 👉 https://velog.io/@jh0131/posts
@@ -10,6 +10,7 @@ Backend Developer Student
 - PostgreSQL / Redis
 - Docker / Docker Compose
 - JWT / Spring Security
+- AWS EC2
 
 
 
@@ -27,7 +28,9 @@ Backend Architecture
 - Spring Boot API Server
 - PostgreSQL + Redis
 - Docker Compose Deployment
-- JWT Authentication
+- Spring Security (JWT Authentication)
+- RabbitMQ
+- AWS EC2
 
 👉 https://github.com/hwanjung/emotion-diary
 
