@@ -2,8 +2,8 @@
 
 **백엔드 개발과 서비스 아키텍처 설계에 관심 있는 개발자 정환입니다.**
  
-**확장성, 운영, 트래픽 흐름을 고려한 구조 설계**에 흥미가 있으며,  
-개인 프로젝트를 통해 실제 배포 환경에서 발생하는 문제를 직접 해결하며 성장하고 있습니다.
+단순 기능 구현을 넘어서, 확장성과 운영을 고려한 백엔드 구조에 관심이 있습니다.
+개인 프로젝트에서 인증, 데이터 처리, 배포 과정을 직접 구현하며 서비스가 동작하는 전체 흐름을 이해하고 문제를 개선해왔습니다.
 
 ---
 
@@ -15,8 +15,13 @@
 
 ## 🚀 Tech Stack
 
+### Programming Languages
+- Java
+- Python
+- C/C++
+
 ### Backend
-- Java / Spring Boot  
+- Spring Boot  
 - Spring Security (JWT)
 
 ### Database & Cache
@@ -34,7 +39,8 @@
 
 ## 🧠 Interested In
 
-- Backend Architecture Design  
+- Backend Development
+- Service Architecture
 - Cloud Deployment (AWS)  
 - Scalable System Design  
 
@@ -42,12 +48,13 @@
 
 ## 🛠 Main Project
 
-### 📓 AI Emotion Diary
-
-Repository  
+### 📓 AI Emotion Diary  
 👉 https://github.com/hwanjung/emotion-diary
 
+### 🌳 BlogTree AI
+👉 https://github.com/kvvxxn/BlogTree_AI
 ---
 
 📫 Contact  
-- Blog: https://velog.io/@jh0131  
+- Blog: https://velog.io/@jh0131
+- Email: jh013188@gmail.com
