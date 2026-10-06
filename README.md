@@ -1,4 +1,4 @@
-# 👋 Backend Developer
+# Student
 
 **B.S. Candidate in Computer Science at Hanyang University**
 
@@ -40,9 +40,8 @@ Spring Boot 기반 개발과 비동기 처리, 배포, 모델 서빙을 학습�
 ## 📚 Currently Learning
 
 - Backend Architecture
-- Asynchronous Processing
-- Cloud & DevOps
-- Kubernetes / KServe
+- Cloud
+- Kubernetes
 
 ---
 
@@ -56,9 +55,6 @@ Spring Boot 기반 개발과 비동기 처리, 배포, 모델 서빙을 학습�
 
 - ✅ <a href="https://github.com/HwanJung/validation-dsl">Validation DSL</a>  
   Java 환경에서 값, 문자열, 컬렉션 등의 검증 로직을 체이닝 방식으로 작성할 수 있도록 만든 도메인 특화 검증 DSL 라이브러리입니다.
-
-- 🚧 Graduation Project — SLO-aware Model Serving Optimization  
-  Kubernetes, KServe, Knative 기반 모델 서빙 환경에서 latency SLO를 만족하기 위한 성능 프로파일링, 트래픽 예측, 스케일링 전략을 실험하는 프로젝트입니다.
 
 ---
 
