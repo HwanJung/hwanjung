@@ -2,9 +2,6 @@
 
 **B.S. Candidate in Computer Science at Hanyang University**
 
-백엔드 개발, 서비스 아키텍처, 클라우드 인프라에 관심을 가지고 공부하고 있습니다.  
-Spring Boot 기반 개발과 비동기 처리, 배포, 모델 서빙을 학습하며 안정적인 백엔드 시스템을 만드는 방법을 익히고 있습니다.
-
 ---
 
 ## 🚀 Tech Stack
@@ -34,14 +31,6 @@ Spring Boot 기반 개발과 비동기 처리, 배포, 모델 서빙을 학습�
 **Messaging**
 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
-
----
-
-## 📚 Currently Learning
-
-- Backend Architecture
-- Cloud
-- Kubernetes
 
 ---
 
